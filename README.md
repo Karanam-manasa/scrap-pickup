@@ -28,7 +28,7 @@ This application demonstrates core mobile development concepts including user au
 ## Demo Video
 
 You can watch a full video demonstration of the app on YouTube:
-[[https://www.youtube.com/watch?v=your_video_id](https://www.youtube.com/shorts/rpkcosTQmho)](https://www.youtube.com/watch?v=your_video_id)
+[(https://www.youtube.com/shorts/rpkcosTQmho)]
 
 
 
