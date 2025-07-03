@@ -40,13 +40,13 @@ You can watch a full video demonstration of the app on YouTube:
 
 ## Tech Stack & Libraries
 
-- **Framework**: [React Native](https://reactnative.dev/) (with [Expo](https://expo.dev/))
-- **Navigation**: [React Navigation](https://reactnavigation.org/) (Stack Navigator)
-- **State Management**: [React Context API](https://react.dev/reference/react/useContext)
-- **HTTP Client**: [Axios](https://axios-http.com/)
-- **Local Storage**: [@react-native-async-storage/async-storage](https://react-native-async-storage.github.io/async-storage/)
-- **UI Components**: [@react-native-community/datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) for date selection.
-- **Mock Backend**: [json-server](https://github.com/typicode/json-server)
+- **Framework**: React Native (with Expo)
+- **Navigation**: React Navigation (Stack Navigator)
+- **State Management**: React Context API
+- **HTTP Client**: Axios
+- **Local Storage**: @react-native-async-storage/async-storage
+- **UI Components**: @react-native-community/datetimepicker for date selection
+- **Mock Backend**: json-server
 
 ## How the Backend is Mocked
 
