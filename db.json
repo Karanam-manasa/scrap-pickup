@@ -1,0 +1,233 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "phone": "9876543210",
+      "name": "Manasa Karanam",
+      "role": "customer"
+    },
+    {
+      "id": "2",
+      "phone": "1234567890",
+      "name": "Prabhas",
+      "role": "partner"
+    },
+    {
+      "id": "3",
+      "phone": "9999999999",
+      "name": "Bhargavi Tetali",
+      "role": "customer"
+    },
+    {
+      "id": "4",
+      "phone": "9888888888",
+      "name": "Lavanya M",
+      "role": "customer"
+    },
+    {
+      "id": "5",
+      "phone": "8888888888",
+      "name": "Siva Ganesh K",
+      "role": "customer"
+    }
+  ],
+  "pickups": [
+    {
+      "id": 1,
+      "customerId": "1",
+      "customerName": "Manasa Karanam",
+      "customerPhone": "9876543210",
+      "partnerId": "2",
+      "pickupDate": "2023-10-29",
+      "timeSlot": "1-2 PM",
+      "address": "123 Green Earth St, Nature City, 400001",
+      "googleMapsLink": "",
+      "status": "Completed",
+      "pickupCode": "XF4G8K",
+      "items": [
+        {
+          "name": "Newspaper",
+          "quantity": 10,
+          "price": 120
+        },
+        {
+          "name": "Plastic Bottles",
+          "quantity": 2.5,
+          "price": 50
+        }
+      ],
+      "totalAmount": 170
+    },
+    {
+      "id": 2,
+      "customerId": "3",
+      "customerName": "Bhargavi tetali",
+      "customerPhone": "9999999999",
+      "partnerId": "2",
+      "pickupDate": "2023-10-30",
+      "timeSlot": "4-5 PM",
+      "address": "A-404, Harmony Apartments, Metroville, 400052",
+      "googleMapsLink": "",
+      "status": "Pending for Approval",
+      "pickupCode": "Z9P3QW",
+      "items": [
+        {
+          "name": "Cardboard Boxes",
+          "quantity": 15,
+          "price": 150
+        }
+      ],
+      "totalAmount": 150
+    },
+    {
+      "id": 3,
+      "customerId": "1",
+      "customerName": "Manasa Karanam",
+      "customerPhone": "9876543210",
+      "partnerId": null,
+      "pickupDate": "2023-11-01",
+      "timeSlot": "10-11 AM",
+      "address": "123 Green Earth St, Nature City, 400001",
+      "googleMapsLink": "",
+      "status": "Pending",
+      "pickupCode": null,
+      "items": [],
+      "totalAmount": 0
+    },
+    {
+      "pickupDate": "2025-07-04",
+      "timeSlot": "12AM",
+      "address": "Eluru, Andhrapradesh ",
+      "customerId": "1",
+      "customerName": "Anjali Sharma",
+      "customerPhone": "9876543210",
+      "status": "Completed",
+      "partnerId": "2",
+      "pickupCode": "BNW0SC",
+      "items": [
+        {
+          "name": "Teddy bear",
+          "quantity": 5,
+          "price": 500
+        },
+        {
+          "name": "Mickey mouse ",
+          "quantity": 6,
+          "price": 500
+        }
+      ],
+      "totalAmount": 1000,
+      "id": 4
+    },
+    {
+      "pickupDate": "2024-07-03",
+      "timeSlot": "1-2PM",
+      "address": "Bhimadole ",
+      "customerId": "3",
+      "customerName": "Rohan Mehta",
+      "customerPhone": "9999999999",
+      "status": "Accepted",
+      "partnerId": "2",
+      "pickupCode": "VQPTC4",
+      "items": [],
+      "totalAmount": 0,
+      "id": 5
+    },
+    {
+      "pickupDate": "2025-07-08",
+      "timeSlot": "10-12PM",
+      "address": "Hyderabad ",
+      "customerId": "1",
+      "customerName": "Anjali Sharma",
+      "customerPhone": "9876543210",
+      "status": "In-Process",
+      "partnerId": "2",
+      "pickupCode": "QZVXKI",
+      "items": [],
+      "totalAmount": 0,
+      "id": 6
+    },
+    {
+      "pickupDate": "2025-13-45",
+      "timeSlot": "1-2Pm",
+      "address": "Bengaluru ",
+      "customerId": "3",
+      "customerName": "Rohan Mehta",
+      "customerPhone": "9999999999",
+      "status": "Completed",
+      "partnerId": "2",
+      "pickupCode": "Z0AQ9K",
+      "items": [
+        {
+          "name": "Newspaper ",
+          "quantity": 2,
+          "price": 10
+        }
+      ],
+      "totalAmount": 10,
+      "id": 7
+    },
+    {
+      "pickupDate": "Hsgshsn",
+      "timeSlot": " Zbs",
+      "address": "Nzbs",
+      "customerId": "1",
+      "customerName": "Anjali Sharma",
+      "customerPhone": "9876543210",
+      "status": "Pending",
+      "partnerId": null,
+      "pickupCode": null,
+      "items": [],
+      "totalAmount": 0,
+      "id": 8
+    },
+    {
+      "pickupDate": "Gsbsms",
+      "timeSlot": "Bsbb",
+      "address": "Bsbbs",
+      "customerId": "1",
+      "customerName": "Anjali Sharma",
+      "customerPhone": "9876543210",
+      "status": "Pending",
+      "partnerId": null,
+      "pickupCode": null,
+      "items": [],
+      "totalAmount": 0,
+      "id": 9
+    },
+    {
+      "pickupDate": "Hsgsh",
+      "timeSlot": "Bsbs",
+      "address": "Bsbs",
+      "customerId": "1",
+      "customerName": "Anjali Sharma",
+      "customerPhone": "9876543210",
+      "status": "Pending",
+      "partnerId": null,
+      "pickupCode": null,
+      "items": [],
+      "totalAmount": 0,
+      "id": 10
+    },
+    {
+      "pickupDate": "2025-07-04",
+      "timeSlot": "3Am",
+      "address": "Bengaluru, Karnataka",
+      "customerId": "1",
+      "customerName": "Manasa Karanam",
+      "customerPhone": "9876543210",
+      "status": "Completed",
+      "partnerId": "2",
+      "pickupCode": "4KD8YO",
+      "items": [
+        {
+          "name": "Water bottles ",
+          "quantity": 20,
+          "price": 400
+        }
+      ],
+      "totalAmount": 400,
+      "id": 11
+    }
+  ]
+}
