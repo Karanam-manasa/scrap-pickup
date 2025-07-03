@@ -28,9 +28,20 @@ This application demonstrates core mobile development concepts including user au
 ## Demo Video
 
 You can watch a full video demonstration of the app on YouTube:
-- [(https://www.youtube.com/shorts/rpkcosTQmho)]
-- [(https://youtu.be/Vq0b4ljyy-s)]
+- [single phone setup](https://www.youtube.com/shorts/rpkcosTQmho)
+- [Double phone setup](https://youtu.be/Vq0b4ljyy-s)
 
+## Testing The Application
+
+This application is designed to simulate the interaction between two different users (a customer and a partner).
+
+###  Two-Phone Setup :
+
+1.  **Start the servers** on your computer (`npm run api` and `npx expo start`).
+2.  **Ensure both phones and the computer are on the same Wi-Fi network.** Alternatively, use Tunnel mode by pressing `s` after starting Expo.
+3.  **Launch the app on both phones** by scanning the same QR code with the Expo Go app on each device.
+4.  On **Phone 1**, log in as a **Customer** (e.g., `9876543210`).
+5.  On **Phone 2**, log in as a **Partner** (e.g., `1234567890`).
 
 
 ## Tech Stack & Libraries
