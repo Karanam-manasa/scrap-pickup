@@ -36,7 +36,7 @@ You can watch a full video demonstration of the app on YouTube:
 | Login Screen | Customer Dashboard | Partner Pickups |
 | :---: |:---:|:---:|
 | *(![WhatsApp Image 2025-07-03 at 20 54 18_ae679839](https://github.com/user-attachments/assets/71407b33-dc37-41d0-9ab6-a8d38457477d)
-  ![WhatsApp Image 2025-07-03 at 20 54 21_8a356ad2](https://github.com/user-attachments/assets/4e11fdeb-37b1-46de-92c9-ca1658c40075))*
+  ![WhatsApp Image 2025-07-03 at 20 54 21_8a356ad2](https://github.com/user-attachments/assets/4e11fdeb-37b1-46de-92c9-ca1658c40075))*|
 
  | *(![WhatsApp Image 2025-07-03 at 20 54 13_1b0f66e9](https://github.com/user-attachments/assets/61b1a0f0-28fe-4af1-99e4-1ba77a68f708)
    ![WhatsApp Image 2025-07-03 at 20 54 14_ead697e9](https://github.com/user-attachments/assets/063f516b-4add-437b-b5f7-f7d4f8c14704)
@@ -44,7 +44,7 @@ You can watch a full video demonstration of the app on YouTube:
    ![WhatsApp Image 2025-07-03 at 20 57 18_f81243a3](https://github.com/user-attachments/assets/b2f67b19-cdfa-4991-a4bb-34186161b16b)
    ![WhatsApp Image 2025-07-03 at 20 57 21_44bdd775](https://github.com/user-attachments/assets/f7951968-9b43-4117-8fdd-e7d059a93d38)
    ![WhatsApp Image 2025-07-03 at 20 57 22_a3651339](https://github.com/user-attachments/assets/09e05fd8-58e1-4bda-91f9-785f8bad1b20)
-   ![WhatsApp Image 2025-07-03 at 20 57 22_a4428592](https://github.com/user-attachments/assets/dae6b6cd-087f-4f5c-a20a-4c648e60bd3b))*
+   ![WhatsApp Image 2025-07-03 at 20 57 22_a4428592](https://github.com/user-attachments/assets/dae6b6cd-087f-4f5c-a20a-4c648e60bd3b))*|
 
  | *(![WhatsApp Image 2025-07-03 at 20 56 39_125bb8cf](https://github.com/user-attachments/assets/04a80c13-0df2-4733-89df-4d98e9595058)
      ![WhatsApp Image 2025-07-03 at 20 57 20_be0369b7](https://github.com/user-attachments/assets/2584c79a-68ef-4bfb-a306-fc323b53edd6)
