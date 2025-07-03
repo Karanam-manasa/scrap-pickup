@@ -1,4 +1,4 @@
-# scrap-pickup
+
 # Scrap Pickup Platform - React Native
 
 This project is a simplified simulation of a scrap pickup service, built as a mobile application using React Native and Expo. It consists of two user-facing applications bundled into one: a **Customer App** for scheduling pickups and a **Partner App** for managing and completing them.
@@ -25,9 +25,12 @@ This application demonstrates core mobile development concepts including user au
   - Submit the final itemized list and total amount to the customer for approval.
 - **Real-Time Updates**: The partner's list of assigned jobs updates as they progress and as new jobs become available.
 
-## Demo Video / Screenshots
+## Demo Video
 
-*(This is a great place to add a short GIF or a few screenshots of your app in action. It dramatically increases the quality of your README.)*
+You can watch a full video demonstration of the app on YouTube:
+[https://www.youtube.com/watch?v=your_video_id](https://www.youtube.com/watch?v=your_video_id)
+
+
 
 **Example:**
 | Login Screen | Customer Dashboard | Partner Pickups |
